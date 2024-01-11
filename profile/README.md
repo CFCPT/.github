@@ -1,4 +1,4 @@
-![header image](./cfc-pt-horz.png)
+![header image](/profile/cfc-pt-horz.png)
 
 # CFC #public-transport
 A special interest group (SIG) of the Comic Fiesta Community Discord server
